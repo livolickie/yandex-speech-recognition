@@ -7,12 +7,12 @@ using System.Windows;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Google Speech API")]
+[assembly: AssemblyTitle("Yandex Speech API")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Win-Yagd")]
-[assembly: AssemblyProduct("Google Speech API")]
-[assembly: AssemblyCopyright("Copyright © Win-Yagd 2017")]
+[assembly: AssemblyCompany("HAVI GAMES & OVERGAME")]
+[assembly: AssemblyProduct("Yandex Speech API")]
+[assembly: AssemblyCopyright("Copyright © HAVI GAMES & OVERGAME 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

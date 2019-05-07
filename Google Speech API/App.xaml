@@ -4,6 +4,7 @@
              xmlns:local="clr-namespace:Google_Speech_API"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+
     </Application.Resources>
 </Application>
+    
