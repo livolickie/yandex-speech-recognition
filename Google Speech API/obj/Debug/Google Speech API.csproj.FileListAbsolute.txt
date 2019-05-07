@@ -1,0 +1,34 @@
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google Speech API.exe.config
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google Speech API.exe
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google Speech API.pdb
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google.Apis.Core.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google.Apis.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google.Apis.Speech.v1beta1.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\NAudio.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\System.Net.Http.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google.Apis.xml
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google.Apis.Core.xml
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Google.Apis.Speech.v1beta1.xml
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\NAudio.xml
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\Google Speech API.csprojResolveAssemblyReference.cache
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\MainWindow.g.cs
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\App.g.cs
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\Google Speech API_MarkupCompile.cache
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\Google Speech API_MarkupCompile.lref
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\MainWindow.baml
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\Google Speech API.g.resources
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\Google_Speech_API.Properties.Resources.resources
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\Google Speech API.csproj.GenerateResource.Cache
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\Google Speech API.csproj.CoreCompileInputs.cache
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\Google Speech API.exe
+C:\Users\Livolickie\Documents\Visual Studio 2017\Projects\Google Speech API\Google Speech API\obj\Debug\Google Speech API.pdb

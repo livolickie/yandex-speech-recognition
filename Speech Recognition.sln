@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speech Recognition", "Google Speech API\Speech Recognition.csproj", "{394C6853-2B9D-421E-B498-1DC31B000237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394C6853-2B9D-421E-B498-1DC31B000237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394C6853-2B9D-421E-B498-1DC31B000237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394C6853-2B9D-421E-B498-1DC31B000237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394C6853-2B9D-421E-B498-1DC31B000237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F0D7A1-D254-4CD2-82DD-E3CB56906CBB}
+	EndGlobalSection
+EndGlobal
